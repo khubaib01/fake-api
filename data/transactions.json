@@ -1,14 +1,134 @@
 [
-    {
-        "id": 1,
-        "name": "Salary from Google",
-        "type": "income",
-        "amount": 1000000
-    },
-    {
-        "id": 2,
-        "name": "Family Expenses",
-        "type": "expense",
-        "amount": 200000
-    }
+  {
+    "id": "OhkoJRCbgwf48JuEDfbZq",
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 1200
+  },
+  {
+    "id": "tkRI7WQgRoKj_MoIPE76H",
+    "name": "salary facebook",
+    "type": "income",
+    "amount": 2000
+  },
+  {
+    "id": "vGe9S1OzvVwtM0coqiq9f",
+    "name": "child",
+    "type": "expense",
+    "amount": 1500
+  },
+  {
+    "id": "F-9Vw2yunuJkMB1qLz6UX",
+    "name": "wife",
+    "type": "expense",
+    "amount": 700
+  },
+  {
+    "id": "kzT1vmUFd5Qoolr8OZMFU",
+    "name": "salary microsoft",
+    "type": "income",
+    "amount": 5000
+  },
+  {
+    "id": "2jvAL0TP3pQr0Y129Z_jp",
+    "name": "internet bill",
+    "type": "expense",
+    "amount": 1500
+  },
+  {
+    "id": "n5dempRJ2L637sE8HPW0i",
+    "name": "bazar",
+    "type": "expense",
+    "amount": 1367
+  },
+  {
+    "id": "jMMZwWCGfg9yEAxbaEqeZ",
+    "name": "salary tution",
+    "type": "income",
+    "amount": 7000
+  },
+  {
+    "id": "X5F-ZEfuRnZrqKcHkN8j-",
+    "name": "salary A",
+    "type": "income",
+    "amount": 230
+  },
+  {
+    "id": "CBwr-PYz80bX90TDyoOUV",
+    "name": "expence G",
+    "type": "expense",
+    "amount": 133
+  },
+  {
+    "id": "S5dVUvw6yZQFDa5TL6t86",
+    "name": "salary z",
+    "type": "income",
+    "amount": 1200
+  },
+  {
+    "id": "N_IvjkayFf4aG_ELbHNxG",
+    "name": "expense h",
+    "type": "expense",
+    "amount": 600
+  },
+  {
+    "id": "ud4lFc8If4b3W1gN3U4W3",
+    "name": "salary f",
+    "type": "income",
+    "amount": 45
+  },
+  {
+    "id": "8WymGBsTSOsd2ydlpESL2",
+    "name": "salary yt",
+    "type": "income",
+    "amount": 213
+  },
+  {
+    "id": "wLEqTqx_sS7F2gBbBtrNf",
+    "name": "expense io",
+    "type": "expense",
+    "amount": 356
+  },
+  {
+    "id": "0FN6xTpvK8McdhHKTZ6xC",
+    "name": "salary qw",
+    "type": "income",
+    "amount": 3214
+  },
+  {
+    "id": "uLIBI4J1rgghdcq3ojfzq",
+    "name": "expense uiyiu",
+    "type": "expense",
+    "amount": 327
+  },
+  {
+    "id": "CEWeoK9--teYckK2wnbO1",
+    "name": "salary iuyi",
+    "type": "income",
+    "amount": 34532
+  },
+  {
+    "id": "3QWPd1gk92KfpP1pHemcg",
+    "name": "salary ww",
+    "type": "income",
+    "amount": 3423
+  },
+  {
+    "id": "D_h0h3fLtQbAfdtQ1I8K1",
+    "name": "salary tr",
+    "type": "income",
+    "amount": 23488
+  },
+  {
+    "id": "La-dlB79R5F_2IAhWhIHt",
+    "name": "expense wewe",
+    "type": "expense",
+    "amount": 342
+  },
+  {
+    "id": "fOTtQOiWWg9tYP5RVW3jo",
+    "name": "expense 55",
+    "type": "expense",
+    "amount": 55
+  }
 ]
